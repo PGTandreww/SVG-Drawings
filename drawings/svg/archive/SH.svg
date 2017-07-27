@@ -1,0 +1,18 @@
+<svg  width="600" height="480" viewBox="0 0 96 96" xml:space="preserve" preserveAspectRatio="xMinYMin meet"
+ xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink"
+ >
+	<defs>
+	<!--importStyle="windows.css"-->
+	<!--importDefs="windows.svg"-->
+ 	</defs>
+	
+	<g id="window">
+		
+		<g id="hardware">	
+			<path id="latch" d="M 0,0 l .5,-.5 l 3,0 l .5,.5 l -4,0" class="hardware" />
+			<path id="l_lock" d="M 0,0 l .25,-.25 l 2,0 l .25,.25 l -2.5,0" class="hardware" />
+			<path id="r_lock" d="M 0,0 l .25,-.25 l 2,0 l .25,.25 l -2.5,0" class="hardware" />
+		</g>
+	</g>
+	
+</svg>

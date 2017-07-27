@@ -1,0 +1,26 @@
+	<style id="styles" type="text/css"><![CDATA[
+      rect {
+        fill: none;
+        stroke: black;
+        stroke-width: .25
+      }
+      rect.glass {
+      	fill: skyblue; 
+		fill-opacity: .4; 
+		stroke: black;
+		stroke-width: .125;
+		stroke-dasharray: 1,2;
+      }
+      path {
+        fill: none;
+        stroke: blue;
+        stroke-width: .25
+      }
+      path.frame{
+        fill: url(#fill_pattern);
+        stroke: black;
+        stroke-width: .125
+      }
+    ]]></style>
+   
+    

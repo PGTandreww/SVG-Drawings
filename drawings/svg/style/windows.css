@@ -1,0 +1,240 @@
+.dropEnabled
+{
+ fill-opacity: .4;
+ stroke: green;
+ stroke-width: .25;
+ stroke-dasharray: .5,.5;
+}
+.dropDisabled
+{
+ fill-opacity: .4;
+ stroke: red;
+ stroke-width: .25;
+ stroke-dasharray: .5,.5;
+}
+.aligned
+{
+ fill-opacity: .4;
+ stroke: blue;
+ stroke-width: .25;
+ stroke-dasharray: .5,.5;
+}
+rect {
+ fill: none;
+ stroke: black;
+ stroke-width: .063;
+}
+rect.pnl_1 {
+ stroke: black;
+ stroke-width: .063;
+}
+rect.pnl_2 {
+ stroke: black;
+ stroke-width: .063;
+}
+rect.pnl_3 {
+ stroke: black;
+ stroke-width: .063;
+}
+rect.grid {
+ fill: none;
+ stroke: black;
+ stroke-width: .063;
+}
+rect.frame{
+ stroke: black;
+ stroke-width: .063;
+}
+rect.frameTN{
+ stroke: black;
+ stroke-width: .001;
+}
+rect.fin{
+ stroke: black;
+ stroke-width: .063;
+ stroke-dasharray: .5,.5;
+}
+rect.finTN{
+ stroke: black;
+ stroke-width: .001;
+ stroke-dasharray: .5,.5;
+}
+circle.glass {
+ fill:skyblue;
+ fill-opacity: 1;
+ stroke: darkgreen;
+ stroke-width: .016;
+ stroke-dasharray: .5,.25;
+}
+circle.grid {
+fill-opacity: 0;
+}
+rect.glass {
+ fill:skyblue;
+ fill-opacity: 1;
+ stroke: darkgreen;
+ stroke-width: .016;
+ stroke-dasharray: .5,.25;
+}
+rect.description {
+ fill: mediumblue;
+ fill-opacity: 1.0;
+ stroke: none;
+}
+rect.draghide{
+ fill: blue;
+ stroke: blue;
+ stroke-width: .5;
+ fill-opacity: 0.0;
+ stroke-opacity: 0.0;
+}
+rect.dragshow{
+ fill: lightgreen;
+ stroke: navy;
+ stroke-width: .063;
+ fill-opacity: 1.0;
+ stroke-opacity: 1.0;
+}
+.hide{
+ fill-opacity: 0.0;
+ stroke-opacity: 0.0;
+}
+line{
+ stroke: black;
+ stroke-opacity: 1;
+ stroke-width: .063;
+}
+line.frame{
+ stroke: black;
+ stroke-width: .063;
+}
+line.frameTN{
+ stroke: black;
+ stroke-width: .001;
+}
+line.dim{
+ stroke: navy;
+ stroke-opacity:.2;
+ stroke-width: .063;
+ stroke-dasharray: 1,1;
+}
+line.dimEnd{
+ stroke-opacity: .2;
+ stroke:navy;
+ stroke-width: .063;
+}
+line.rabbit{
+ stroke-opacity: .5;
+ stroke:black;
+ stroke-width: .063;
+}
+line.align{
+ stroke-opacity: .5;
+ stroke:red;
+ stroke-width: .063;
+}
+path {
+ fill: none;
+ stroke: blue;
+ stroke-width: .25;
+}
+path.frame{
+ stroke: black;
+ stroke-width: .063;
+}
+path.frameTN{
+ stroke: black;
+ stroke-width: .001;
+}
+path.grid{
+ stroke-width: 1;
+}
+path.glass{
+ fill:skyblue;
+ fill-opacity: 1;
+ stroke: darkgreen;
+ stroke-width: .2;
+ stroke-dasharray: .5,.2;
+}
+path.sunburst{
+ stroke-width: .5;
+ fill:skyblue;
+ fill-opacity: 1;
+}
+ path.grid{
+ stroke: black;
+ stroke-width: .0625;
+}
+path.sash{
+ stroke: black;
+ stroke-width: .063;
+}
+path.hardware{
+ fill: silver;
+ stroke: black;
+ stroke-width: .063;
+}
+path.opening{
+ stroke: mediumblue;
+ stroke-width: .25;
+ fill:none;
+ stroke-opacity: 0.4;
+}
+path.direction{
+ stroke: mediumblue;
+ stroke-width: .25;
+ fill:none;
+ stroke-opacity: 0.6;
+}
+path.unpressed{
+ stroke:silver;
+ stroke-width:.25;
+ fill-opacity:1;
+ fill:gray;
+}
+path.pressed{
+ stroke:black;
+ stroke-width:.25;
+ fill-opacity:1;
+ fill:gray;
+}
+text.description{
+ font-family:Arial;
+ font-size:6px;
+ fill: black;
+ text-anchor: start;
+}
+text.dim{
+ font-family:Arial;
+ font-size: 3;
+ font-weight: bold;
+ fill: navy;
+ text-anchor: middle;
+}
+text.dimSmall{
+ font-family:Arial;
+ font-size: 2;
+ fill: navy;
+ text-anchor: middle;
+}
+text.prod{
+ font-family:Arial;
+ font-size: 2;
+ font-weight: bold;
+ fill: black;
+ text-anchor: middle;
+}
+text.glass{
+ font-family:Arial;
+ font-size: 2;
+ font-weight: bold;
+ fill: black;
+ text-anchor: middle;
+}
+text.error{
+ font-family:Arial;
+ font-size: 2;
+ font-weight: bold;
+ fill: red;
+ text-anchor: middle;
+}

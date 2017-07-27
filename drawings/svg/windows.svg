@@ -1,0 +1,83 @@
+<defs>
+  	<path id="arrow" d="M 0,0 m 0,-1 l 0,2 m 0,-1 l 2,.5 m -2,-.5 l 2,-.5" style="fill:navy; stroke-opacity: 1; stroke:navy; stroke-width: .125" />
+
+	<linearGradient id="blue_white" x1="100%" y1="100%" x2="0%" y2="0%">
+		<stop offset="0%" style="stop-color:rgb(65,105,225);
+			stop-opacity:1"/>
+		<stop offset="100%" style="stop-color:rgb(255,255,255);
+			stop-opacity:1"/>
+	</linearGradient>
+
+	<g id="progress">
+		<image x="-2.5" y="-2.5" width="5" height="5" transform="translate(-2.5 -2.5)" xlink:href="../resource/circle_arrow.jpg" >
+	  		<animateTransform attributeName="transform" attributeType="XML"
+                    type="rotate" from="0" to="360" dur="3s" 
+                    fill="freeze" restart="always" repeatCount="indefinite"
+		    		accumulate="none" additive="replace" calcMode="linear" />
+ 		</image>
+	</g>
+
+	<pattern id="PGTADOAKH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTADOAKH.jpg" />
+	</pattern>
+
+	<pattern id="PGTADOAKV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTADOAKV.jpg" />
+	</pattern>
+
+	<pattern id="PGTADACAH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTADACAH.jpg" />
+	</pattern>
+
+	<pattern id="PGTADACAV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTADACAV.jpg" />
+	</pattern>
+
+	<pattern id="PGTADWALH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTADWALH.jpg" />
+	</pattern>
+
+	<pattern id="PGTADWALV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTADWALV.jpg" />
+	</pattern>
+
+	<pattern id="PGTADCHRH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTADCHRH.jpg" />
+	</pattern>
+
+	<pattern id="PGTADCHRV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTADCHRV.jpg" />
+	</pattern>
+
+	<pattern id="PGTVAH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTVAH.jpg" />
+	</pattern>
+
+	<pattern id="PGTVAV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTVAV.jpg" />
+	</pattern>
+
+	<pattern id="PGTVDOH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTVDOH.jpg" />
+	</pattern>
+
+	<pattern id="PGTVDOV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTVDOV.jpg" />
+	</pattern>
+
+	<pattern id="PGTVNCH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTVNCH.jpg" />
+	</pattern>
+
+	<pattern id="PGTVNCV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTVNCV.jpg" />
+	</pattern>
+
+	<pattern id="PGTVNOH" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="100%" height="4" xlink:href="../resource/PGTVNOH.jpg" />
+	</pattern>
+
+	<pattern id="PGTVNOV" x="0" y="0" width="1" height="1" patternUnits="objectBoundingBox" viewbox="0 0 1 1">
+		<image preserveAspectRatio="none" width="4" height="100%" xlink:href="../resource/PGTVNOV.jpg" />
+	</pattern>
+</defs>

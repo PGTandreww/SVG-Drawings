@@ -1,0 +1,16 @@
+<svg  width="150" height="110" viewBox="0 0 84 96" xml:space="preserve" preserveAspectRatio="xMinYMin meet"
+ xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink"
+ >
+	<defs>
+	<!--importStyle="windows.css"-->
+
+   <path id="arrow" d="M 0,0 m 0,-1.5 l 0,3 m 0,-1.5 l 2,1 m -2,-1 l 2,-1" style="fill:navy; stroke-opacity: 1; stroke:navy; stroke-width: .125" />
+
+	</defs>
+	
+	<g id="window">
+		
+
+	</g>
+	
+</svg>

@@ -1,0 +1,116 @@
+<svg  width="600" height="480" viewBox="0 0 96 96" xml:space="preserve" preserveAspectRatio="xMinYMin meet"
+ xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink"
+ >
+	<defs>
+	<!--importStyle="windows.css"-->
+
+	<!--importDefs="windows.svg"-->
+	
+	<pattern id="103H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s103H.jpg" />
+	</pattern>
+  
+  	<pattern id="103V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s103V.jpg" />
+	</pattern>
+  
+  
+  <pattern id="104H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s104H.jpg" />
+	</pattern>
+  
+  	<pattern id="104V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s104V.jpg" />
+	</pattern>
+	
+	<pattern id="105H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s105H.jpg" />
+	</pattern>
+  
+  	<pattern id="105V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s105V.jpg" />
+	</pattern>
+	
+	<pattern id="106H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s106H.jpg" />
+	</pattern>
+  
+  	<pattern id="106V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s106V.jpg" />
+	</pattern>
+	
+	<pattern id="107H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s107H.jpg" />
+	</pattern>
+  
+  	<pattern id="107V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s107V.jpg" />
+	</pattern>
+	
+	<pattern id="108H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s108H.jpg" />
+	</pattern>
+  
+  	<pattern id="108V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s108V.jpg" />
+	</pattern>
+	
+	<pattern id="109H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s109H.jpg" />
+	</pattern>
+  
+  	<pattern id="109V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s109V.jpg" />
+	</pattern>
+	
+	<pattern id="110H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s110H.jpg" />
+	</pattern>
+  
+  	<pattern id="110V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s110V.jpg" />
+	</pattern>
+	
+	<pattern id="111H"  width="6" height="2" patternUnits="userSpaceOnUse" viewbox="0 0 6 2">
+		<image x="0" y="0" width="6" height="2" xlink:href="../resource/s111H.jpg" />
+	</pattern>
+  
+  	<pattern id="111V"  width="2" height="6" patternUnits="userSpaceOnUse" viewbox="0 0 2 6">
+		<image x="0" y="0" width="2" height="6" xlink:href="../resource/s111V.jpg" />
+	</pattern>
+	
+	
+	<linearGradient id="up" x1="0%" y1="0%" x2="0%" y2="100%">
+		<stop offset="0%" style="stop-color:currentColor;stop-opacity:.1"/>
+		<stop offset="100%" style="stop-color:white;stop-opacity:.7"/>
+	</linearGradient>
+
+	<linearGradient id="down" x1="0%" y1="0%" x2="0%" y2="100%">
+		<stop offset="0%" style="stop-color:white;stop-opacity:.7"/>
+		<stop offset="100%" style="stop-color:currentColor;stop-opacity:.1"/>
+	</linearGradient>
+	
+
+ 	</defs>
+	
+	<g id="window">
+		
+
+	</g>
+	<g id="g_control_up"  style="visibility:hidden">
+		<path id="control_up" d="M -1,0 l 1,-2 l 1,2 l -2,0" class="unpressed" onmousedown="press(evt)" onmouseup="ratchetUp(evt)"/>  
+	</g>
+	<g id="g_control_down"  style="visibility:hidden">
+		<path id="control_down" d="M -1,0 l 1,2 l 1,-2 l -2,0" class="unpressed" onmousedown="press(evt)" onmouseup="ratchetDown(evt)"/>  
+	</g>
+	<g id="g_control_left"  style="visibility:hidden">
+		<path id="control_left" d="M 0,-1 l -2,1 l 2,1 l 0,-2" class="unpressed" onmousedown="press(evt)" onmouseup="ratchetLeft(evt)"/>  
+	</g>
+	<g id="g_control_right" style="visibility:hidden">
+		<path id="control_right" d="M 0,-1 l 2,1 l -2,1 l 0,-2" class="unpressed" onmousedown="press(evt)" onmouseup="ratchetRight(evt)"/>  
+	</g>
+	<g id="g_element_dim" style="visibility:hidden">
+		<rect x="1.5" y="-1" width="6" height="2.5" style="fill:white; stroke-width=.125" />
+		<text id="txt_element_dim" x="4.5" y="1" class="dimSmall">0.0"</text>
+	</g>
+</svg>
